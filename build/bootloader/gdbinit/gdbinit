@@ -1,0 +1,2 @@
+source C:/Users/sosth/esp/mqtt_led/build/bootloader/gdbinit/symbols
+source C:/Users/sosth/esp/mqtt_led/build/bootloader/gdbinit/connect
